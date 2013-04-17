@@ -1,7 +1,5 @@
-#include system
-#include pandas
-
-
+import system
+import pandas
 
 for i in range(10): 
 	print "hello world",
